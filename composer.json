@@ -1,5 +1,5 @@
 {
-  "name": "customergauge/aurora",
+  "name": "eddierusinskas/aurora",
   "description": "Aurora Connector for Laravel with READ COMMITTED & AWS Secret Manager",
   "type": "library",
   "license": "MIT",
